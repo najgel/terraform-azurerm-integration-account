@@ -10,6 +10,6 @@ variable "resource_group_name" {
   description = "Specifies the name of the resource group where the resource is to be created."
 }
 
-variable "sku_name" {
+variable "sku" {
   description = "Specifies which sku the integration account should use, can be either Free or Standard"
 }

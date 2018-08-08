@@ -34,7 +34,7 @@ Specifies the supported Azure location where the resource is to be created.
 ### integration_account_name
 Specifies the name of the integration account.
 
-### sku_name
+### sku
 Specifies which sku the integration account should use, can be either Free or Standard
 
 

@@ -36,7 +36,7 @@ DEPLOY
 
   parameters {
     "integrationAccountName" = "${var.integration_account_name}"
-    "sku_name"               = "${var.sku_name}"
+    "sku_name"               = "${var.sku}"
     "location"               = "${var.location}"
   }
 
