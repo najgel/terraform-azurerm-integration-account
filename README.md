@@ -1,5 +1,6 @@
+# terraform-azurerm-integration-account
 
-## Create an Hybrid Connection in Azure
+## Create an  Integration Account in Azure
 
 This terraform module deploys an empty Integration Account in Azure.
 
